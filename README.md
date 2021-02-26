@@ -1,1 +1,2 @@
-# Writing-functions-which-can-take-arguments
+# collisionAlgorithm
+Algorithm to detect collision between two objects
